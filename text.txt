@@ -26,3 +26,5 @@ Commands:
 - Merge in "main" branch "git merge dev"
 
 - Creating feature/new_change
+
+- Creating release/new_change to test.
