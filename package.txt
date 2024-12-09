@@ -1,3 +1,5 @@
 This file contains project dependencies.
 
 V 1.0.0 - Build Changes
+
+3rd party lib version upgrades. "deps"
