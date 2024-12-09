@@ -24,3 +24,5 @@ Commands:
 - Checkout "git checkout dev"
 
 - Merge in "main" branch "git merge dev"
+
+- Creating feature/new_change
