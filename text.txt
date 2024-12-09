@@ -11,8 +11,14 @@ Commands:
 - Add / Stage affected file. "git add ." / "git add text.text"
 
 - Remove / UnStage affected file. "git reset text.txt" / "git reset directory"
-- Remove / UnStage affected file. "git restore --staged text.txt"
+- Remove / UnStage affected file. "git restore --staged text.txt" Experimental
 
 - After adding the changes, give commit message. " git commit -m "Initial Commit" "
 
 - Move Changes to Stage section.
+
+- To check all branch "git branch"
+
+- Create "git branch dev"
+
+- Checkout "git checkout dev"
