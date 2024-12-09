@@ -1,3 +1,5 @@
 Consider this is an new feature work
 
 - Released an build. In this build, a bug arised. Need to work.
+
+- Fixing the issues.
