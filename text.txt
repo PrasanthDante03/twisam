@@ -1,0 +1,15 @@
+hi there
+
+Work:
+What i done:
+
+Commands: 
+- After creating a txt file. I run "git status" to check whether this branch is affected or not.
+
+- Check for the URL. 'git remote -v'. After run "https://github.com/PrasanthDante03/twisam.git (fetch and push)"
+
+- Add / Stage affected file. "git add ." / "git add text.text"
+
+- Remove / UnStage affected file. "git reset text.txt" / "git reset directory"
+
+-
