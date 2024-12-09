@@ -22,3 +22,5 @@ Commands:
 - Create "git branch dev"
 
 - Checkout "git checkout dev"
+
+- Merge in "main" branch "git merge dev"
